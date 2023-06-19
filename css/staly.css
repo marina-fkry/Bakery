@@ -1,0 +1,99 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    /*font-family: 'Alegreya Sans', sans-serif;*/
+    font-family: 'Xanh Mono', monospace;
+}
+
+
+.text{
+    margin-top: 200px;
+    z-index: 5;
+}
+
+.text span{
+    font-size: 30px;
+}
+
+.text h1{
+    font-size: 80px;
+}
+
+.nn{
+    position: relative;
+}
+.layer {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    top: 0%;
+   background-color: rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar{
+    position: fixed;
+    right: 0%;
+    left: 0%;
+    top: 0%;
+    bottom: 90%;
+}
+.staylimg{
+    width: 130%;
+}
+.size{
+    font-size: 500%;
+}
+.sizelest{
+    height: 60%;
+    
+}
+.bottom1{
+    background-color: #8E7754;
+color: aliceblue; 
+width: 15%;
+height: 15%;
+}
+
+.bottom1:hover{
+    background-color: rgb(246, 247, 248);
+    color: black;
+    border-style: none;
+}
+.navhover{
+    color: rgb(242, 245, 247);
+}
+.navhover:hover{
+color: #AE9768;
+}
+
+.bgcolor{
+    background: #8E7754;
+    z-index: 999999;
+}
+
+/*اول سكشن*/
+.alsize{
+
+    width: 30%;
+}
+.size1{
+    height: 80%;
+}
+/*السكشن التاني*/
+.alsize1{
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
+/*السكشن التالت*/
+.bgcolor1{
+    background-color: #8E7754;;
+}
+/*السكشن الرابع*/
+
+
